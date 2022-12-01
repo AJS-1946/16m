@@ -1,6 +1,6 @@
 3D printed Lucas PUW7E Battery Box
 
-This model consists of four components, the main battery box, a separately printed box side contains the LUCAS logo, the top of the lid and the rim of the lid. The two pieces of the lid need to be glued together once printed using super glue. The box side containing the logo also need to be glued in place in the main box.
+This model consists of four components, the main battery box, a separately printed box side insert containing the LUCAS logo, the top of the lid and the rim of the lid. The two pieces of the lid need to be glued together once printed using super glue. The box side containing the logo also need to be glued in place in the main box.
 
 Recommended printing material is PETG, although PLA with a high fill percentage should also give adequate strength and dimensional stability.
 
