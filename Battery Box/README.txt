@@ -17,7 +17,8 @@ Recommended printing material is PETG, although PLA with a high fill percentage 
 To date, these parts have been printed using a Prusa Mk3S printer with good results, but have not been tested with other printers. If you have access to a Prusa Mk3S, Gcode files have been included for this printer
 
 Finishing
-To finish, sand with 80 or 120 grit paper, then apply coats of high-build undercoat. Sand back using 100 - 120 grit wet-or-dry paper with water. This allows the fairly soft printed filament to sand cleanly without softening due to heat, which can result in furring of the surface. Repeat until you get a smooth surface, then spray a couple of coats of satin or matt finish top coat. 
+To finish, sand with 80 or 120 grit paper to help paint to adhere to the surface, or use a furniture scraper to smooth the ridges left from 3D printing. After initial sanding, apply one or more coats of high-build undercoat, then wet-sand back using 100 - 120 grit wet-or-dry paper. Wet-sanding allows the fairly soft printed filament to sand cleanly without softening due to heat, which can result in furring of the surface. Repeat until you get a smooth surface, then spray a couple of coats of satin or matt finish top coat. 
+
 
 Usage
 The battery box is designed to house two Lucas 6 volt, LSLA4-6 batteries (or similar) side by side, wired in parallel for 6v or in series for 12v.
