@@ -14,7 +14,7 @@ At the present time the logo is an approximation of the post-war Lucas logo used
 Printing
 Recommended printing material is PETG, although PLA with a high fill percentage should also give adequate strength and dimensional stability. The rim of the lid should be printed with an infill percentage of around 60% in order to improve the dimensional stability of the lid, other parts can be printed with an infill percentage of 15%.
 
-After testing initial prototypes, it is also recommended that the top portion of the lid also be printed with a higher infill percentage to prevent it bowing in hot sunlight, as the top of the lid is a horizontal surface so gets the most sun, and the battery box is typically black for civilian bikes. For hot climates this could be as high as 60%, for cooler climates 30% should be adequate. Alternatively, interior vertical ribbing running along the long axis of the lid may be added.
+After testing initial prototypes, it is recommended that the top portion of the lid also be printed with a higher infill percentage to prevent it bowing in hot sunlight, as the top of the lid is a horizontal surface so gets the most sun, and the battery box is typically black for civilian bikes. For hot climates this could be as high as 60%, for cooler climates 30% should be adequate. Alternatively, interior vertical ribbing running along the long axis of the lid may be added.
 
 To date, these parts have been printed using a Prusa Mk3S printer with good results, but have not been tested with other printers. If you have access to a Prusa Mk3S, Gcode files have been included for this printer
 
